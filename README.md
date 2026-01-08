@@ -1,8 +1,3 @@
-Sure 👍
-Below is a **complete, clean, and professional `README.md`** for your **Notes App**.
-You can **copy-paste this directly** into a file named **`README.md`** in your project root.
-
----
 
 ```md
 # 📝 Notes App
@@ -33,48 +28,6 @@ Users can create, view, edit, and delete notes with a clean and attractive UI.
 - **Styling:** Tailwind CSS  
 
 ---
-
-## 📁 Project Structure
-
-```
-
-notes-app/
-├── app/
-│   ├── api/
-│   │   └── notes/
-│   │       ├── route.ts
-│   │       └── [id]/route.ts
-│   ├── layout.tsx
-│   ├── page.tsx
-│   └── globals.css
-├── lib/
-│   └── mongodb.ts
-├── models/
-│   └── Note.ts
-├── .env
-├── package.json
-└── README.md
-
-````
-
----
-
-## ▶️ How to Run the Project Locally
-
-### ✅ Prerequisites
-
-Make sure you have installed:
-
-- **Node.js** (v18 or later)
-- **MongoDB** (local installation or MongoDB Atlas)
-- **Git**
-
-Check versions:
-```bash
-node -v
-npm -v
-mongod --version
-````
 
 ---
 
