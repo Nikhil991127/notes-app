@@ -34,7 +34,7 @@ Users can create, view, edit, and delete notes with a clean and attractive UI.
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/notes-app.git
+git clone https://github.com/Nikhil991127/notes-app.git
 cd notes-app
 ```
 
@@ -94,65 +94,3 @@ http://localhost:3000
 
 ---
 
-## 🖼 UI Highlights
-
-* Clean dashboard layout
-* Empty state for new users
-* Card-based notes design
-* Modal forms for create & edit
-* Smooth hover effects
-
----
-
-## 🛠 Common Issues & Fixes
-
-* **MongoDB not running** → Start MongoDB before running the app
-* **Environment variable not loaded** → Restart the dev server
-* **Port conflict** → Free port 3000 or change port
-
----
-
-## 📌 Future Enhancements
-
-* Authentication
-* Search and filter notes
-* Dark mode
-* Pagination
-* Deployment to Vercel
-
----
-
-## 👤 Author
-
-**Nikhil Sharma**
-
----
-
-## 📄 License
-
-This project is for educational and demonstration purposes.
-
-```
-
----
-
-## ✅ What this README covers
-
-✔ Project overview  
-✔ Features  
-✔ Tech stack  
-✔ Folder structure  
-✔ How to run locally  
-✔ API endpoints  
-✔ Interview-ready wording  
-
----
-
-If you want next, I can:
-- Add **screenshots** section
-- Make a **deployment guide**
-- Optimize for **resume / interview**
-- Review your **GitHub repository**
-
-Just share the repo link 🔗
-```
