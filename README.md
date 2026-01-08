@@ -28,7 +28,7 @@ Users can create, view, edit, and delete notes with a clean and attractive UI.
 - **Styling:** Tailwind CSS  
 
 ---
-
+```
 ---
 
 ### 📥 Clone the Repository
@@ -38,6 +38,7 @@ git clone https://github.com/<your-username>/notes-app.git
 cd notes-app
 ```
 
+---
 ---
 
 ### 📦 Install Dependencies
